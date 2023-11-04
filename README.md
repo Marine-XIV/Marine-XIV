@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Marine-XIV
+- 👀 I’m interested in hashing and coding 
+- 🌱 I’m currently learning ...?
+- 💞️ I’m looking to collaborate on Python programming language and VPN services
+- 📫 How to reach me by ?
+
+<!---
+Marine-XIV/Marine-XIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

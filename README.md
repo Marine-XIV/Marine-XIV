@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marine-XIV
 - 👀 I’m interested in hashing and coding 
 - 🌱 I’m currently learning ...?
-- 💞️ I’m looking to collaborate on Python programming language and VPN services
+- 💞️ I’m looking to collaborate on Python programming language.
 - 📫 How to reach me by ?
 
 <!---
